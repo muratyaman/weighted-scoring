@@ -1,0 +1,62 @@
+{
+  "categories": [
+    {
+      "id": "A.",
+      "name": "Category A",
+      "weight": 30.0,
+      "failIfBelow": 50.0,
+      "disabled": false,
+      "params": [
+        {
+          "id": "A.1.",
+          "name": "Param A1",
+          "weight": 10.0,
+          "value": 50.0
+        },
+        {
+          "id": "A.2.",
+          "name": "Param A2",
+          "weight": 5.0,
+          "value": 90.0
+        },
+        {
+          "id": "A.3.",
+          "name": "Param A3",
+          "weight": 15.0,
+          "value": 85.0
+        },
+        {
+          "id": "A.4.",
+          "name": "Param A4",
+          "weight": 20.0,
+          "value": 100.0
+        }
+      ]
+    },
+    {
+      "id": "B.",
+      "name": "Category B",
+      "weight": 20.0,
+      "params": [
+        {
+          "id": "B.1.",
+          "name": "Param B1",
+          "weight": 5.0,
+          "value": 80.0
+        },
+        {
+          "id": "B.2.",
+          "name": "Param B2",
+          "weight": 25.0,
+          "value": 50.0
+        },
+        {
+          "id": "B.3.",
+          "name": "Param B3",
+          "weight": 35.0,
+          "value": 90.0
+        }
+      ]
+    }
+  ]
+}
